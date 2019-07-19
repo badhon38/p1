@@ -1,0 +1,87 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	    background: url(../img/benner.png);
+    background-size: cover;
+    display: block;
+    background-repeat: no-repeat;
+}
+
+.container{
+width: 1140px;
+margin: 0 auto;
+
+
+}
+.bennar-tittle{
+    width:100%;
+    margin: 0 auto;
+}
+.contain h2 span{
+	color: #3aea3a;
+}
+.contain{
+    width: 50%;
+    float: left;
+}
+.bennar-tittle h2{
+    width: 50%;
+    margin: 58px 56px;
+    color: #ffff;
+    font-size: 37px;
+}
+.bennar-tittle p{
+       float: left;
+    font-size: 11px;
+    color: #ffff;
+    margin: -52px 54px;
+}
+.contain ul{
+	    margin: -22px 54px;
+
+}
+.contain ul li{
+    list-style: none;
+    color: #ffff;
+}
+
+.btn {
+	
+    margin: 35px 72px;
+    background: #blue;
+    background: #03bbe6;
+    color: #ffff;
+    padding: 10px 20px;
+    border-radius: 49px;
+    transition: 0.4s ease-in-out;
+	
+
+}
+
+.btn:hover {
+	    box-shadow: 0px 3px 23px #43bfe4;
+
+}
+
+.form{
+	background-color: skyblue;
+    width: 50%;
+    float: left;
+    margin: 191px -12px;
+}
+.head{
+
+    color: #ffff;
+    text-align: center;
+}
+.headp{
+
+color: #fff;
+    text-align: center;
+}
+
+.form-control{
+
+}
